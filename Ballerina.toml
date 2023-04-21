@@ -6,4 +6,4 @@
   export = ["amrh6_1"]
   name = "amrh6_1"
   org = "isurupiyarathnarucji"
-
+  version = "0.1.0"
