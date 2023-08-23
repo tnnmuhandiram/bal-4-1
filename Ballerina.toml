@@ -2,7 +2,7 @@
   observabilityIncluded = true
 
 [package]
-  distribution = "2201.7.0"
+  distribution = "2201.7.1"
   export = ["amrh6_1"]
   name = "amrh6_1"
   org = "tharindumuhandiram"
